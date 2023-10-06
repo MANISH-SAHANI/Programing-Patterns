@@ -1,5 +1,7 @@
 ﻿# Game programming patterns in Unity
 
+![programming-patterns-logo](https://github.com/MANISH-SAHANI/Unity-Programing-Patterns/assets/91081774/09003df5-ee71-477e-927f-9cf54979bcc7)
+
 Here you can find a collection of programming (design) patterns in Unity, mainly from the book [Game Programming Patterns](http://gameprogrammingpatterns.com). These are very useful to better organize your Unity project as it grows because they capture best practices and solutions to commonly occuring problems. You don't have to use them - you should see them as tools in your toolbox. You can also experiment with how they are implemented to fit your specific needs. Some patterns, such as Update, Game Loop, Component, are already built-in into Unity so you are already using them! 
 
 Programming patterns can be divided into the following groups:
