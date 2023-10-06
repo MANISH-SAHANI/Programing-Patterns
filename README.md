@@ -1,4 +1,4 @@
-﻿# Game programming patterns in Unity
+﻿# Game programming patterns
 
 <h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Unity-Programing-Patterns/assets/91081774/09003df5-ee71-477e-927f-9cf54979bcc7" alt="Logo" width="550" /></h1>
 
